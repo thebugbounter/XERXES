@@ -1,6 +1,4 @@
 # Xerxes
-Xerxes tool modified: Menu, random http-requests with TCP or UDP, client-version, infinity mode, IP /24 scanner 
-# Xerxes
 
 The primary goal of Xerxes is to provide a fully customizable and extendable interface to:
 
