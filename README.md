@@ -14,5 +14,5 @@ This command will give executeable permission to the file - `chmod +x xerxes`
 
 ### START THE ATTACK
 `$./xerxes site's 'IP address' and 'PortNo.'`<BR>
-  For example - ./xerxes 192.168.54.31 443
+  For example - `$./xerxes 192.168.54.31 443`
 
