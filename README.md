@@ -1,5 +1,5 @@
 # XERXES
----XerXeS is an extremely efficient DoS tool, developed by the hacker, The Jesterto automate DoS attacks. It provides the capacity to launch multiple independent attacks against several target sites without necessarily requiring a botnet.
+XerXeS is an extremely efficient DoS tool, developed by the hacker, The Jesterto automate DoS attacks. It provides the capacity to launch multiple independent attacks against several target sites without necessarily requiring a botnet.
 
 ## Usage
 To unleash hell on a particular service 
