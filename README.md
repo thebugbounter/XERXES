@@ -9,8 +9,8 @@ To unleash hell on a particular service
 - Change Directory to the xerxes-II `$ cd XERXES`
 
 ### FILE PERMISSSION
-*Note: WITHOUT GIVING PRIVILEGES IT WILL NOT WORK* <br>
-This command will give executeable permission to the file - `chmod +x xerxes`
+*Note: WITHOUT GIVING PRIVILEGES IT WILL NOT WORK !!* <br>
+This command will give executable permission to the file - `chmod +x xerxes`
 
 ### START THE ATTACK
 `$./xerxes site's 'IP address' and 'PortNo.'`<BR>
