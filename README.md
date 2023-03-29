@@ -1,22 +1,16 @@
-XERXES
+# XERXES
+---XerXeS is an extremely efficient DoS tool, developed by the hacker, The Jesterto automate DoS attacks. It provides the capacity to launch multiple independent attacks against several target sites without necessarily requiring a botnet.
 
-XerXes - Most powerful dos tool bY mR.Thg
+## Usage
+To unleash hell on a particular service 
+- Clone the repository`$ git clone `
+- Change Directory to the xerxes-II `$ cd `
 
-COMPILE
+### FILE PERMISSSION
+*Note: WITHOUT GIVING PRIVILEGES IT WILL NOT WORK*
+This command will give executeable permission to the file - `chmod +x xerxes`
 
-gcc -o xerxes xerxes.c
+### START THE ATTACK
+`$./xerxes site's 'IP address' and 'PortNo.'`
+  For example - ./xerxes 192.168.54.31 443
 
-LINUX/UNIX/MAC
-
-./xerxes IP PORT
-
-BE ANONYMOUS
-USE PROXY VPN OPENVPN TOR PROXYCHAINS
-
-https://en.wikipedia.org/wiki/The_Jester_%28hacktivist%29
-
-https://twitter.com/th3j35t3r
-
-http://jesterscourt.cc/
-
-XERXES
